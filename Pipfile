@@ -10,6 +10,7 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 pip = "*"
+textblob = "*"
 
 [requires]
 python_version = "3.7"
